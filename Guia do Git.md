@@ -1,5 +1,8 @@
 # GIT
 
+Master para main com Git
+* https://www.youtube.com/watch?v=MdthEusEoy8
+
 ## Estados
 
 * Modificado (modified);
